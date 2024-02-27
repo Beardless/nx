@@ -76,9 +76,6 @@ The `@nx/next/plugin` is configured in the `plugins` array in `nx.json`.
 {% /tab %}
 {% tab label="Nx < 18" %}
 
-{% /tab %}
-{% tab label="Nx < 18" %}
-
 Install the `@nx/next` package with your package manager.
 
 ```shell
